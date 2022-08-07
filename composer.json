@@ -1,5 +1,5 @@
 {
-    "name": "awcodes/filament-sticky-header",
+    "name": "elsayed85/filament-sticky-header",
     "type": "project",
     "description": "A Filament Admin plugin to make headers sticky when scrolling.",
     "keywords": [
