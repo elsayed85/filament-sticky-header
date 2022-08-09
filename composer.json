@@ -1,5 +1,5 @@
 {
-    "name": "awcodes/filament-sticky-header",
+    "name": "elsayed85/filament-sticky-header",
     "type": "project",
     "description": "A Filament Admin plugin to make headers sticky when scrolling.",
     "keywords": [
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^8.0.2",
+        "php": "^8.0",
         "filament/filament": "^2.0",
         "spatie/laravel-package-tools": "^1.9.2"
     },
